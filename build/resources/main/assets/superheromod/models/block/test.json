@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superheromod:blocks/adamantiumore",
+    "up": "superheromod:blocks/adamantiumore",
+    "north": "superheromod:blocks/adamantiumore",
+    "east": "superheromod:blocks/adamantiumore",
+    "south": "superheromod:blocks/adamantiumore",
+    "west": "superheromod:blocks/adamantiumore",
+    "particle": "superheromod:blocks/adamantiumore"
+  },
+  "render_type": "solid"
+}
