@@ -8,7 +8,7 @@ version="1.0.0"
 displayName="DragonBallZ"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="airid, MCreator"
+authors="Waflinis ir invalidas"
 
 [[dependencies.dragonballz]]
     modId="minecraft"
