@@ -1,0 +1,29 @@
+{
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-01-03 21:06:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-01-03 21:06:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-01-03 21:05:49 +0200",
+      "minecraft:sparse_jungle": "2023-01-03 21:06:06 +0200",
+      "minecraft:plains": "2023-01-03 21:11:37 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-01-03 21:06:34 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

@@ -30,6 +30,8 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.superheromod.init.SuperheromodModItems;
+import net.mcreator.superheromod.init.SuperheromodModFluids;
+import net.mcreator.superheromod.init.SuperheromodModFluidTypes;
 import net.mcreator.superheromod.init.SuperheromodModBlocks;
 
 import java.util.function.Supplier;
@@ -51,6 +53,9 @@ public class SuperheromodMod {
 
 		SuperheromodModBlocks.REGISTRY.register(bus);
 		SuperheromodModItems.REGISTRY.register(bus);
+
+		SuperheromodModFluids.REGISTRY.register(bus);
+		SuperheromodModFluidTypes.REGISTRY.register(bus);
 
 	}
 

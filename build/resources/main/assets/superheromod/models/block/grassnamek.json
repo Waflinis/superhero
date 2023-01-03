@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superheromod:blocks/tile.saibaihatched",
+    "up": "superheromod:blocks/tile.blocknamekgrasstop",
+    "north": "superheromod:blocks/tile.blocknamekgrassside",
+    "east": "superheromod:blocks/tile.blocknamekgrassside",
+    "south": "superheromod:blocks/tile.blocknamekgrassside",
+    "west": "superheromod:blocks/tile.blocknamekgrassside",
+    "particle": "superheromod:blocks/tile.saibaihatched"
+  },
+  "render_type": "solid"
+}

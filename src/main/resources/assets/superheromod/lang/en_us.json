@@ -1,4 +1,9 @@
 {
-  "block.superheromod.balls": "Balls",
-  "block.superheromod.test": "Test"
+  "item.superheromod.namek_water_bucket": "Namek Water Bucket",
+  "block.superheromod.namek_leaves": "Namek Leaves",
+  "block.superheromod.test": "Test",
+  "item.superheromod.namek": "Namek Portal Igniter",
+  "block.superheromod.grassnamek": "Grassnamek",
+  "fluid.superheromod.namek_water": "Namek Water",
+  "block.superheromod.namek_water": "Namek Water"
 }
