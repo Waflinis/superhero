@@ -6,7 +6,7 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "test"
+      "registry_name": "jbraa_ore"
     },
     {
       "name": "Grassnamek",
@@ -47,12 +47,66 @@
       }
     },
     {
-      "name": "Lighter",
+      "name": "Jbraaingot",
       "type": "item",
-      "sortid": 6,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "lighter"
+      "registry_name": "jbraaingot"
+    },
+    {
+      "name": "JbraaArmor",
+      "type": "armor",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JbraaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_helmet_recipe"
+    },
+    {
+      "name": "JbraaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_body_recipe"
+    },
+    {
+      "name": "JbraaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_leggings_recipe"
+    },
+    {
+      "name": "JbraaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_boots_recipe"
+    },
+    {
+      "name": "Jbraa",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa"
     }
   ],
   "variable_elements": [],
@@ -60,13 +114,17 @@
   "language_map": {
     "en_us": {
       "item.superheromod.namek_water_bucket": "Namek Water Bucket",
+      "item.superheromod.jbraaingot": "Jbraaingot",
       "block.superheromod.namek_leaves": "Namek Leaves",
-      "block.superheromod.test": "Test",
+      "item.superheromod.jbraa_armor_helmet": "Jbraa Helmet",
       "item.superheromod.namek": "Namek Portal Igniter",
-      "item.superheromod.lighter": "Lighter",
+      "block.superheromod.namek_water": "Namek Water",
+      "item.superheromod.jbraa_armor_chestplate": "Jbraa Chestplate",
+      "item.superheromod.jbraa_armor_leggings": "Jbraa Leggings",
+      "block.superheromod.jbraa_ore": "Jbraa ore",
       "block.superheromod.grassnamek": "Grassnamek",
-      "fluid.superheromod.namek_water": "Namek Water",
-      "block.superheromod.namek_water": "Namek Water"
+      "item.superheromod.jbraa_armor_boots": "Jbraa Boots",
+      "fluid.superheromod.namek_water": "Namek Water"
     }
   },
   "foldersRoot": {

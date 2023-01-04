@@ -124,17 +124,49 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Namek"
+    ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.AZALEA_LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Blocks.FLOWERING_AZALEA_LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES#0"
+      },
+      {
+        "value": "Blocks.LEAVES#1"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      },
+      {
+        "value": "Blocks.LEAVES2"
+      },
+      {
+        "value": "Blocks.LEAVES2#0"
+      },
+      {
+        "value": "Blocks.LEAVES2#1"
+      },
+      {
+        "value": "Blocks.MANGROVE_LEAVES"
       }
     ],
     "generationShape": "UNIFORM",
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 64
+    "maxGenerateHeight": 100
   }
 }

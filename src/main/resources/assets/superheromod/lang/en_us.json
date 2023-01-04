@@ -1,9 +1,10 @@
 {
   "item.superheromod.namek_water_bucket": "Namek Water Bucket",
+  "item.superheromod.jbraaingot": "Jbraaingot",
+  "block.superheromod.jbraa_ore": "Jbraa ore",
   "block.superheromod.namek_leaves": "Namek Leaves",
-  "block.superheromod.test": "Test",
   "item.superheromod.namek": "Namek Portal Igniter",
   "block.superheromod.grassnamek": "Grassnamek",
-  "fluid.superheromod.namek_water": "Namek Water",
-  "block.superheromod.namek_water": "Namek Water"
+  "block.superheromod.namek_water": "Namek Water",
+  "fluid.superheromod.namek_water": "Namek Water"
 }

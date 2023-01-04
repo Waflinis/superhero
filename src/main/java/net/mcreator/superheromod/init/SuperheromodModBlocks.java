@@ -19,7 +19,7 @@ import net.mcreator.superheromod.SuperheromodMod;
 
 public class SuperheromodModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, SuperheromodMod.MODID);
-	public static final RegistryObject<Block> TEST = REGISTRY.register("test", () -> new TestBlock());
+	public static final RegistryObject<Block> JBRAA_ORE = REGISTRY.register("jbraa_ore", () -> new TestBlock());
 	public static final RegistryObject<Block> GRASSNAMEK = REGISTRY.register("grassnamek", () -> new GrassnamekBlock());
 	public static final RegistryObject<Block> NAMEK_WATER = REGISTRY.register("namek_water", () -> new NamekWaterBlock());
 	public static final RegistryObject<Block> NAMEK_LEAVES = REGISTRY.register("namek_leaves", () -> new NamekLeavesBlock());

@@ -1,7 +1,31 @@
 {
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_ancient_debris": "2023-01-03 21:06:34 +0200"
+      "has_coal": "2023-01-04 10:22:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2023-01-04 09:58:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-04 09:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-01-04 09:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-01-04 10:22:26 +0200"
     },
     "done": true
   },
@@ -11,19 +35,74 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "minecraft:bamboo_jungle": "2023-01-03 21:05:49 +0200",
-      "minecraft:sparse_jungle": "2023-01-03 21:06:06 +0200",
-      "minecraft:plains": "2023-01-03 21:11:37 +0200"
+      "in_water": "2023-01-04 09:14:11 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2023-01-03 21:06:34 +0200"
     },
     "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-01-04 10:22:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-01-04 09:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-01-03 21:06:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-04 09:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2023-01-04 10:22:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-01-04 10:33:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-01-04 09:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-01-04 09:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-01-03 21:05:49 +0200",
+      "minecraft:sparse_jungle": "2023-01-03 21:06:06 +0200",
+      "minecraft:river": "2023-01-04 09:14:10 +0200",
+      "minecraft:plains": "2023-01-03 21:11:37 +0200"
+    },
+    "done": false
   },
   "DataVersion": 3120
 }

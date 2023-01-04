@@ -1,0 +1,145 @@
+{
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test"
+    },
+    {
+      "name": "Grassnamek",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grassnamek"
+    },
+    {
+      "name": "NamekWater",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "namek_water",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "NamekLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "namek_leaves"
+    },
+    {
+      "name": "Namek",
+      "type": "dimension",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "namek",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "JbraaArmor",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "jbraa_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JbraaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_helmet_recipe"
+    },
+    {
+      "name": "JbraaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_body_recipe"
+    },
+    {
+      "name": "JbraaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_leggings_recipe"
+    },
+    {
+      "name": "JbraaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_boots_recipe"
+    },
+    {
+      "name": "Jbraaingot",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraaingot"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.superheromod.namek_water_bucket": "Namek Water Bucket",
+      "item.superheromod.jbraaingot": "Jbraaingot",
+      "block.superheromod.namek_leaves": "Namek Leaves",
+      "item.superheromod.jbraa_armor_helmet": "Jbraa Helmet",
+      "item.superheromod.namek": "Namek Portal Igniter",
+      "block.superheromod.namek_water": "Namek Water",
+      "item.superheromod.jbraa_armor_chestplate": "Jbraa Chestplate",
+      "item.superheromod.jbraa_armor_leggings": "Jbraa Leggings",
+      "block.superheromod.test": "Test",
+      "block.superheromod.grassnamek": "Grassnamek",
+      "item.superheromod.jbraa_armor_boots": "Jbraa Boots",
+      "fluid.superheromod.namek_water": "Namek Water"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "superheromod",
+    "modName": "SuperHeroMod",
+    "version": "1.0.0",
+    "author": "airid, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.superheromod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

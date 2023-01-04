@@ -43,8 +43,54 @@
       "locked_code": false,
       "registry_name": "namek",
       "metadata": {
-        "ep": false
+        "ep": true
       }
+    },
+    {
+      "name": "JbraaArmor",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": false,
+      "locked_code": false,
+      "registry_name": "jbraa_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JbraaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_helmet_recipe"
+    },
+    {
+      "name": "JbraaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_body_recipe"
+    },
+    {
+      "name": "JbraaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_leggings_recipe"
+    },
+    {
+      "name": "JbraaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraa_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -53,11 +99,15 @@
     "en_us": {
       "item.superheromod.namek_water_bucket": "Namek Water Bucket",
       "block.superheromod.namek_leaves": "Namek Leaves",
-      "block.superheromod.test": "Test",
+      "item.superheromod.jbraa_armor_helmet": "Jbraa Helmet",
       "item.superheromod.namek": "Namek Portal Igniter",
+      "block.superheromod.namek_water": "Namek Water",
+      "item.superheromod.jbraa_armor_chestplate": "Jbraa Chestplate",
+      "item.superheromod.jbraa_armor_leggings": "Jbraa Leggings",
+      "block.superheromod.test": "Test",
       "block.superheromod.grassnamek": "Grassnamek",
-      "fluid.superheromod.namek_water": "Namek Water",
-      "block.superheromod.namek_water": "Namek Water"
+      "item.superheromod.jbraa_armor_boots": "Jbraa Boots",
+      "fluid.superheromod.namek_water": "Namek Water"
     }
   },
   "foldersRoot": {

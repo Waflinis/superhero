@@ -6,7 +6,7 @@
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "test"
+      "registry_name": "jbraa_ore"
     },
     {
       "name": "Grassnamek",
@@ -26,6 +26,33 @@
       "metadata": {
         "gb": true
       }
+    },
+    {
+      "name": "NamekLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "namek_leaves"
+    },
+    {
+      "name": "Namek",
+      "type": "dimension",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "namek",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Jbraaingot",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jbraaingot"
     }
   ],
   "variable_elements": [],
@@ -33,10 +60,13 @@
   "language_map": {
     "en_us": {
       "item.superheromod.namek_water_bucket": "Namek Water Bucket",
-      "block.superheromod.test": "Test",
+      "item.superheromod.jbraaingot": "Jbraaingot",
+      "block.superheromod.namek_leaves": "Namek Leaves",
+      "item.superheromod.namek": "Namek Portal Igniter",
+      "block.superheromod.namek_water": "Namek Water",
+      "block.superheromod.jbraa_ore": "Jbraa ore",
       "block.superheromod.grassnamek": "Grassnamek",
-      "fluid.superheromod.namek_water": "Namek Water",
-      "block.superheromod.namek_water": "Namek Water"
+      "fluid.superheromod.namek_water": "Namek Water"
     }
   },
   "foldersRoot": {
