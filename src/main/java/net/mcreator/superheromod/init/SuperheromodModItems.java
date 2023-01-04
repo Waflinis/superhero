@@ -19,7 +19,7 @@ import net.mcreator.superheromod.SuperheromodMod;
 
 public class SuperheromodModItems {
 	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, SuperheromodMod.MODID);
-	public static final RegistryObject<Item> TEST = block(SuperheromodModBlocks.TEST, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> JBRAA_ORE = block(SuperheromodModBlocks.JBRAA_ORE, CreativeModeTab.TAB_BUILDING_BLOCKS);
 	public static final RegistryObject<Item> GRASSNAMEK = block(SuperheromodModBlocks.GRASSNAMEK, CreativeModeTab.TAB_BUILDING_BLOCKS);
 	public static final RegistryObject<Item> NAMEK_WATER_BUCKET = REGISTRY.register("namek_water_bucket", () -> new NamekWaterItem());
 	public static final RegistryObject<Item> NAMEK_LEAVES = block(SuperheromodModBlocks.NAMEK_LEAVES, CreativeModeTab.TAB_BUILDING_BLOCKS);

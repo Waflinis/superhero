@@ -1,5 +1,5 @@
 {
-  "parent": "superheromod:block/test",
+  "parent": "superheromod:block/jbraa_ore",
   "display": {
     "thirdperson": {
       "rotation": [
