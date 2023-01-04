@@ -1,0 +1,98 @@
+{
+  "mod_elements": [
+    {
+      "name": "GokuHair",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goku_hair",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "SpacePod",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_pod"
+    },
+    {
+      "name": "SpacePodGui",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_pod_gui"
+    },
+    {
+      "name": "SpacePodRightclicked",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_pod_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.dragonballz.goku_hair_leggings": "Goku Hair Leggings",
+      "item.dragonballz.space_pod": "Space Pod",
+      "item.dragonballz.goku_hair_chestplate": "Goku Hair Body",
+      "item.dragonballz.goku_hair_boots": "Goku Hair Boots",
+      "item.dragonballz.goku_hair_helmet": "Goku Hair"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "dragonballz",
+    "modName": "DragonBallZ",
+    "version": "1.0.0",
+    "author": "Waflinis ir invalidas",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.superheromod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2023-01-03 21:06:34 +0200"
@@ -24,6 +25,13 @@
       "has_ancient_debris": "2023-01-03 21:06:34 +0200"
     },
     "done": true
+=======
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-01-03 19:37:37 +0200"
+    },
+    "done": false
+>>>>>>> branch 'master' of https://github.com/Waflinis/superhero.git
   },
   "DataVersion": 3120
 }

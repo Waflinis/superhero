@@ -1,19 +1,37 @@
 {
   "mod_elements": [
     {
-      "name": "Test",
-      "type": "block",
+      "name": "GokuHair",
+      "type": "armor",
       "sortid": 1,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "test"
+      "registry_name": "goku_hair",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "SpacePod",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_pod"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.superheromod.test": "Test"
+      "item.dragonballz.goku_hair_leggings": "Goku Hair Leggings",
+      "item.dragonballz.space_pod": "Space Pod",
+      "item.dragonballz.goku_hair_chestplate": "Goku Hair Body",
+      "item.dragonballz.goku_hair_boots": "Goku Hair Boots",
+      "item.dragonballz.goku_hair_helmet": "Goku Hair"
     }
   },
   "foldersRoot": {
@@ -21,8 +39,8 @@
     "children": []
   },
   "workspaceSettings": {
-    "modid": "superheromod",
-    "modName": "SuperHeroMod",
+    "modid": "dragonballz",
+    "modName": "DragonBallZ",
     "version": "1.0.0",
     "author": "airid, MCreator",
     "websiteURL": "https://mcreator.net",

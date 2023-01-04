@@ -1,5 +1,9 @@
 Java Launcher: C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+<<<<<<< HEAD
 Arguments: '--in-jar, C:\Users\Deilanas\MCreatorWorkspaces\folder\build\libs\modid-1.0.jar, --out-jar, C:\Users\Deilanas\MCreatorWorkspaces\folder\build\reobfJar\output.jar, --srg-in, C:\Users\Deilanas\MCreatorWorkspaces\folder\build\createMcpToSrg\output.tsrg, --live'
+=======
+Arguments: '--in-jar, C:\Users\airid\MCreatorWorkspaces\superheromod\build\libs\modid-1.0.jar, --out-jar, C:\Users\airid\MCreatorWorkspaces\superheromod\build\reobfJar\output.jar, --srg-in, C:\Users\airid\MCreatorWorkspaces\superheromod\build\createMcpToSrg\output.tsrg, --live'
+>>>>>>> branch 'master' of https://github.com/Waflinis/superhero.git
 Classpath:
  - C:\Users\Deilanas\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.11.0\SpecialSource-1.11.0-shaded.jar
  - C:\Users\Deilanas\MCreatorWorkspaces\folder\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.7_mapped_official_1.19.2\forge-1.19.2-43.1.7_mapped_official_1.19.2.jar
@@ -120,14 +124,27 @@ Loading mappings... 40%
 Loading mappings... 50%
 0 packages, 6859 classes, 30693 fields, 57911 methods
 Remapping final jar
+<<<<<<< HEAD
 Remapping jar...  1%
 Remapping jar... 10%
 Remapping jar... 20%
 Remapping jar... 31%
 Remapping jar... 41%
+=======
+Remapping jar...  2%
+Remapping jar... 10%
+Remapping jar... 20%
+Remapping jar... 30%
+Remapping jar... 40%
+>>>>>>> branch 'master' of https://github.com/Waflinis/superhero.git
 Remapping jar... 50%
 Remapping jar... 60%
 Remapping jar... 70%
+<<<<<<< HEAD
 Remapping jar... 81%
 Remapping jar... 91%
+=======
+Remapping jar... 80%
+Remapping jar... 90%
+>>>>>>> branch 'master' of https://github.com/Waflinis/superhero.git
 Remapping jar... 100%
